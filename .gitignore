@@ -1,0 +1,14 @@
+# object files
+*.o
+
+# binaries
+waterCloset
+mapEditor
+*.exe
+
+# folders
+bin
+dev/*
+!dev/screenshots
+build
+dist
